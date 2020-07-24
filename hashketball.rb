@@ -20,8 +20,8 @@ game_hash = {
     :rebounds => 12,
     :assists => 12,
     :steals => 12,
-    :blocks => ,
-    :slam_dunks =
+    :blocks => 12,
+    :slam_dunks => 
       },
     {
     :player_name = ,
