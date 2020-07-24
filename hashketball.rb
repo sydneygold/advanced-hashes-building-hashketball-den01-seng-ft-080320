@@ -4,7 +4,8 @@ game_hash = {
     :players => {
     :player_name = ,
     :number = ,
-    : 
+    :shoes = ,
+     
     },
 
   },
