@@ -4,11 +4,13 @@ game_hash = {
     :players => {
     :player_name = ,
     :number = ,
-    :shoes = ,
+    :shoe = ,
+    :points = ,
     :rebounds = ,
     :assists = ,
     :steals = ,
-    
+    :blocks = ,
+    :slam_dunks =
     },
 
   },
