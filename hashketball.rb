@@ -14,8 +14,8 @@ game_hash = {
       },
     {
     :player_name => "Reggie Evans" ,
-    :number => ,
-    :shoe = ,
+    :number => 30,
+    :shoe => ,
     :points = ,
     :rebounds = ,
     :assists = ,
