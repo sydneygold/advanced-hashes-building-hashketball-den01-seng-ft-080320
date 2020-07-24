@@ -59,8 +59,7 @@ def game_hash()
   },
   :away => { :team_name => "Charlotte Hornets",
     :color => ["Turquoise", "Purple"],
-    :players => {
-    :player_name => [{
+    :players => [{
     :player_name => "Jeff Adrien",
     :number => 4,
     :shoe => 18,
