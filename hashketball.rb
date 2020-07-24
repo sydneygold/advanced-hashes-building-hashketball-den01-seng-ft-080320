@@ -7,6 +7,7 @@ game_hash = {
     :shoes = ,
     :rebounds = ,
     :assists = ,
+    :steals = ,
     
     },
 
