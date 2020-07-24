@@ -2,10 +2,10 @@ game_hash = {
   :home => { :team_name => "Brooklyn Nets",
     :colors => { "Black", "White" },
     :players => {
-    :player_name = {
-      "Alan Anderson", "Reggie Evans", ""
-      }
-    }
+    :player_name =
+    :  
+    },
+
   },
   :away => { :team_name => "Charlotte Hornets",
     :color => { "Turquoise", "Purple" },
