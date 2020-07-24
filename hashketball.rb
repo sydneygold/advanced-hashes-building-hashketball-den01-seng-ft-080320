@@ -3,7 +3,7 @@ game_hash = {
     :colors => { "Black", "White" },
     :players => {
     :player_name = {
-      "Alan Anderson", ""
+      "Alan Anderson", "Reggie Evans", ""
       }
     }
   },
