@@ -1,8 +1,10 @@
 game_hash = {
-  :home => { :team_name => "Brooklyn Nets"
+  :home => { :team_name => "Brooklyn Nets",
+    
 
   },
-  :away => { :team_name => ""
+  :away => { :team_name => "Charlotte Hornets",
+
 
   }
 }
